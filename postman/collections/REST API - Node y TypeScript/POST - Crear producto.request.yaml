@@ -1,0 +1,8 @@
+$kind: http-request
+description: ""
+url: http://localhost:4000/api/products
+method: POST
+body:
+  type: json
+  content: ""
+order: 1791451152661
